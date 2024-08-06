@@ -21,7 +21,7 @@ Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a p
 
 ## 🛠️ My Cyber Arsenal
 
-- **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools)**: Swiss army knife for pentesting Windows/Active Directory environments.
+- **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools)**: Collection of offensive security tools.
 
 ### Featured Repositories
 
