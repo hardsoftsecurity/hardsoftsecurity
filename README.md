@@ -1,12 +1,12 @@
 # 🌐 Welcome to David's Cyber Playground 🌐
 
-![Welcome](https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif?cid=790b7611l79np4ik3epryvmrxd0wss72abfb2e2dbjh6nmne&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWcwN2c1czc2MmNpaWpnbzJ0ZWMzaDRnYWwwanNiNWtmcHYwbTV5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif)
 
 ## 🎭 About Me
 
 Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a passion for offensive security. This isn't your typical GitHub profile—it's my cyber playground! Here, you'll find a mix of creativity, fun, and hardcore hacking. Let's dive into the matrix together!
 
-![Hacker](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Hacker](https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif?cid=790b7611l79np4ik3epryvmrxd0wss72abfb2e2dbjh6nmne&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🔥 What I Do
 
@@ -17,26 +17,24 @@ Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a p
 - **Teaching**: Sharing my knowledge through blogs, tutorials, and classes.
 - **Innovating**: Always on the lookout for new tools and techniques to stay ahead of the game.
 
-![Coding](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![Coding](https://media.giphy.com/media/bk8UGCysurqC2gmJ0o/giphy.gif?cid=790b7611gs49wdzfcenxw068q2rv6n0uhtvzowqm34mh2wc0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🛠️ My Cyber Arsenal
 
 - **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools)**: Collection of offensive security tools.
 
-### Featured Repositories
+### Good Repositories
 
 - **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)**: Swiss army knife for pentesting Windows/Active Directory environments.
 - **[impacket](https://github.com/SecureAuthCorp/impacket)**: Python classes for working with network protocols.
 - **[SharpHound](https://github.com/BloodHoundAD/SharpHound3)**: Tool for gathering Active Directory information for BloodHound.
 - **[Mimikatz](https://github.com/gentilkiwi/mimikatz)**: Tool for dumping credentials from Windows systems.
 
-![Tools](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
+![Tools](https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif?cid=ecf05e47grfrzqs7sabj05hs9fci9n0qfhoz5smbzz0cifko&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🌟 Cyber Adventures on My Blog
 
 I share my cyber escapades and knowledge on my blog, [HardSoftSecurity](https://hardsoftsecurity.es).
-
-![Blogging](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 ## 📊 GitHub Stats
 
@@ -45,8 +43,6 @@ Here's a sneak peek into my GitHub world:
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Matrix](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 ## 📬 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/david-de-maya-merras/)**
@@ -54,16 +50,5 @@ Here's a sneak peek into my GitHub world:
 
 ## ☕ Coffee time
 
-![Coffee](https://media.giphy.com/media/1n3zWGxXzH0rC/giphy.gif)
+![Coffee](https://media.giphy.com/media/11Lz1Y4n1f2j96/giphy.gif?cid=ecf05e47hfevx7bpp3wa69j3pub1rtb4bl4jpa3obcs04h55&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-## 🎉 Fun Facts
-
-- 🧩 I love solving complex security puzzles.
-- 🚀 Always on the lookout for new offensive security tools and techniques.
-- 🎮 Gamer by night, always strategizing my next big move in the cyber world.
-
-![Fun](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
----
-
-![Code](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
