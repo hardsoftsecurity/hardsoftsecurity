@@ -1,7 +1,5 @@
 # 🌐 Welcome to David's Cyber Playground 🌐
 
-![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWcwN2c1czc2MmNpaWpnbzJ0ZWMzaDRnYWwwanNiNWtmcHYwbTV5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif)
-
 ## 🎭 About Me
 
 Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a passion for offensive security. This isn't your typical GitHub profile—it's my cyber playground! Here, you'll find a mix of creativity, fun, and hardcore hacking. Let's dive into the matrix together!
