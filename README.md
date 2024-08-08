@@ -1,6 +1,6 @@
 # 🌐 Welcome to David's Cyber Playground 🌐
 
-![Welcome](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Welcome](https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif?cid=790b7611l79np4ik3epryvmrxd0wss72abfb2e2dbjh6nmne&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🎭 About Me
 
