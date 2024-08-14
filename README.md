@@ -19,8 +19,9 @@ Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a p
 
 ## 🛠️ My Cyber Arsenal
 
-- **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools)**: Collection of offensive security tools.
-- **[CVE-Monitoring-Tool](https://cve.securehosting.es)**: CVE Monitoring tool to keep up to date with critical vulnerabilities.
+- **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools):** Collection of offensive security tools.
+- **[CVE-Monitoring-Tool](https://cve.securehosting.es):** CVE Monitoring tool to keep up to date with critical vulnerabilities.
+- **[Havoc-Port-Forwarding](https://github.com/hardsoftsecurity/Havoc-Port-Forwarding):** Havoc extension to perform port forwarding.
 
 ### Good Repositories
 
