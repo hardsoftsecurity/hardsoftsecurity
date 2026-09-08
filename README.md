@@ -21,6 +21,7 @@ Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a p
 
 - **[Offensive-Security-Tools](https://github.com/hardsoftsecurity/Offensive-Security-Tools):** Collection of offensive security tools.
 - **[Nerva IR](https://nervair.one):** Your personal Cyber Security Team.
+- **[Offensive AI Framework]((https://github.com/hardsoftsecurity/Offensive-AI):** Offensive AI Framework repository destinated to share information, tools and techniques related to it.
 
 ### Good Repositories
 
