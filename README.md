@@ -23,30 +23,13 @@ Hey there! I'm David, your friendly neighborhood Cyber Security Analyst with a p
 - **[Nerva IR](https://nervair.one):** Your personal Cyber Security Team.
 - **[Offensive AI Framework](https://github.com/hardsoftsecurity/Offensive-AI):** Offensive AI Framework repository destinated to share information, tools and techniques related to it.
 
-### Good Repositories
-
-- **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)**: Swiss army knife for pentesting Windows/Active Directory environments.
-- **[impacket](https://github.com/SecureAuthCorp/impacket)**: Python classes for working with network protocols.
-- **[SharpHound](https://github.com/BloodHoundAD/SharpHound3)**: Tool for gathering Active Directory information for BloodHound.
-- **[Mimikatz](https://github.com/gentilkiwi/mimikatz)**: Tool for dumping credentials from Windows systems.
-
-![Tools](https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif?cid=ecf05e47grfrzqs7sabj05hs9fci9n0qfhoz5smbzz0cifko&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 ## 🌟 Cyber Adventures on My Blog
 
 I share my cyber escapades and knowledge on my blog, [HardSoftSecurity](https://hardsoftsecurity.es).
 
-## 📊 GitHub Stats
-
-Here's a sneak peek into my GitHub world:
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 📬 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/david-de-maya-merras/)**
-- **[Personal Website](https://hardsoftsecurity.es)**
 
 ## ☕ Coffee time
 
